@@ -6,7 +6,7 @@ before start
 
 **Run the file _script.sh_ in your terminal with _./script.sh_**
 ### Coc Extensions
-![COC-EXTESION](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fneoclide%2Fcoc.nvim&psig=AOvVaw1t5UvvhV_tv2kzGKPulqYo&ust=1607309749583000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi9ieCtuO0CFQAAAAAdAAAAABAD)
+![COC-EXTESION](https://user-images.githubusercontent.com/251450/55285193-400a9000-53b9-11e9-8cff-ffe4983c5947.gif)
 
 * [coc-stylelintplus](https://github.com/bmatcuk/coc-stylelintplus). 
 * [coc-json](https://github.com/neoclide/coc-json).
